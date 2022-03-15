@@ -35,7 +35,7 @@ Hover State
 ### Built with
 
 - HTML5
-- SASS
+- Sass
 - Flexbox
 
 ### Author
