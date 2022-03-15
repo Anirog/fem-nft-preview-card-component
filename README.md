@@ -30,7 +30,7 @@ Hover State
 
 ### Links
 
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://anirog.github.io/fem-nft-preview-card-component)
 
 ### Built with
 
